@@ -80,7 +80,7 @@ You may purchase an auto-renewing subscription through an In-App Purchase.
 
 *   Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase
 
-*   [Privacy policy: https://njaistudio.github.io/kotoba_tou](https://njaistudio.github.io/kotoba_tou)
+*   [Privacy policy: https://njaistudio.github.io/hsk_tou](https://njaistudio.github.io/hsk_tou)
 *   [Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula](https://www.apple.com/legal/internet-services/itunes/dev/stdeula)
 
 **Contact Us**
