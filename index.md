@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the **Japanese Vocabulary: N5-N1** app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the **Learn Chinese: HSK 1-9 Vocab** app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
